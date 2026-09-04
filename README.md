@@ -38,7 +38,7 @@ The dataset contains 50,000 global transaction entries across 11 features:
 ---
 ## Dataset & Resources
 
-* **Dataset:** Available in the [`data/bmw_sales_2010_2024.csv`](data/bmw_sales_2010_2024.csv) directory (50,000 global sales records, 2010–2024).
+* **Dataset:** Available in the [`data/bmw_sales_2010_2024.csv`](BMW sales data (2010-2024).csv) directory (50,000 global sales records, 2010–2024).
 * **Kaggle / External Source:** [Link to Dataset](https://www.kaggle.com) 
 * **Presentation Deck:** [View Presentation Slides (PDF)](docs/presentation.pdf)
 
@@ -56,7 +56,7 @@ The dataset contains 50,000 global transaction entries across 11 features:
 
 ## Team & Individual Contributions
 
-* **Team Members:** Chanoudom Tann (Victor), Apivit Denpruktham
+* **Team Members:** Chanoudom Tann (Me), Apivit Denpruktham
 * **My Individual Role & Contributions:**
   * Cleaned and preprocessed the 50K-record dataset, handling categorical feature encodings and scaling.
   * Implemented machine learning classification algorithms to predict sales classification tiers.
