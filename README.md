@@ -36,6 +36,13 @@ The dataset contains 50,000 global transaction entries across 11 features:
 4. **Hypothesis Testing:** Statistical evaluation of regional preferences and feature correlations with overall sales tiers.
 
 ---
+## Dataset & Resources
+
+* **Dataset:** Available in the [`data/bmw_sales_2010_2024.csv`](data/bmw_sales_2010_2024.csv) directory (50,000 global sales records, 2010–2024).
+* **Kaggle / External Source:** [Link to Dataset](https://www.kaggle.com) 
+* **Presentation Deck:** [View Presentation Slides (PDF)](docs/presentation.pdf)
+
+---
 
 ## Tech Stack & Tools
 
