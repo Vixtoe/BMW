@@ -38,8 +38,7 @@ The dataset contains 50,000 global transaction entries across 11 features:
 ---
 ## Dataset & Resources
 
-* **Dataset:** Available in the [`data/bmw_sales_2010_2024.csv`](BMW sales data (2010-2024).csv) directory (50,000 global sales records, 2010–2024).
-* **Kaggle / External Source:** [Link to Dataset](https://www.kaggle.com) 
+* **Dataset File:** [`data/BMW sales data (2010-2024).csv`](data/BMW%20sales%20data%20%282010-2024%29.csv) (50,000 global transaction records).
 * **Presentation Deck:** [View Presentation Slides (PDF)](docs/presentation.pdf)
 
 ---
